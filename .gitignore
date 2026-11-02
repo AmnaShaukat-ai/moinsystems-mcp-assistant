@@ -1,0 +1,8 @@
+.env
+__pycache__/
+venv/
+.venv/
+n8n_files/leads.csv
+n8n_files/leads.csv
+data/moinsystems_services.json
+convert_excel_to_json.py
